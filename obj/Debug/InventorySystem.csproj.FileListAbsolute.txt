@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Github\shopping-cart-and-inventory-system\bin\Debug\InventorySystem.exe.config
+C:\Users\User\Desktop\Github\shopping-cart-and-inventory-system\bin\Debug\InventorySystem.exe
+C:\Users\User\Desktop\Github\shopping-cart-and-inventory-system\bin\Debug\InventorySystem.pdb
+C:\Users\User\Desktop\Github\shopping-cart-and-inventory-system\obj\Debug\InventorySystem.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Github\shopping-cart-and-inventory-system\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Github\shopping-cart-and-inventory-system\obj\Debug\InventorySystem.csproj.CopyComplete
+C:\Users\User\Desktop\Github\shopping-cart-and-inventory-system\obj\Debug\InventorySystem.exe
+C:\Users\User\Desktop\Github\shopping-cart-and-inventory-system\obj\Debug\InventorySystem.pdb

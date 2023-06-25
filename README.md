@@ -22,5 +22,5 @@ The Shopping Cart and Inventory Management System is a comprehensive **console-b
 
 By utilizing this Shopping Cart and Inventory Management System, retailers can streamline their inventory processes, while customers can enjoy a smooth and informed shopping experience. The integration of the buzzer and speech synthesis adds additional convenience and enhances the overall functionality of the system
 
-## **Contributions:**
-**Contributions to the project are encouraged! If you would like to contribute to the Shopping Cart and Inventory Management System, please refer to the CONTRIBUTING.md file for guidelines on how to get involved. Your contributions can help enhance the system's features and make it even more valuable for users.**
+## Contributions:
+*Contributions to the project are encouraged! If you would like to contribute to the Shopping Cart and Inventory Management System, please refer to the CONTRIBUTING.md file for guidelines on how to get involved. Your contributions can help enhance the system's features and make it even more valuable for users.*
