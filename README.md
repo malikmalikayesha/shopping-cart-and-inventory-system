@@ -60,4 +60,4 @@ A console-based application developed in C# that provides a comprehensive interf
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute, please follow the guidelines in the CONTRIBUTING.md file.
+Contributions are welcome! If you'd like to contribute, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
